@@ -1,0 +1,14 @@
+# If this is your first time writing a language grammar, check out:
+#   - https://flight-manual.atom.io/hacking-atom/sections/creating-a-grammar/
+
+'scopeName': 'source.forthml'
+'name': 'ForthML'
+'fileTypes': [
+  'f.xml'
+  'fml'
+]
+'patterns': [
+  {
+    'include': 'text.xml'
+  }
+]

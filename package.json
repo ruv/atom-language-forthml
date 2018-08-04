@@ -1,0 +1,14 @@
+{
+  "name": "language-forthml",
+  "version": "0.0.1",
+  "description": "ForthML language support in Atom",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/ruv/atom-language-forthml",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
